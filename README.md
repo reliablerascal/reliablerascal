@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!👋
+I am one of millions of **Robs** and one of thousands of **Rob Reids** on the planet,<br>
+but if you want to be specific you can call me by my GitHub name, **Reliable Rascal**. 
+<hr>
+As someone who loves both narrative and numbers I've lived a split existence for most of my life, but now I'm a proper freelance data journalist.
+
+You can find my journalism portfolio at <a href="https://reliablerascal.github.io/">https://reliablerascal.github.io/</a>, but here you'll find some of my data wrangling work.
+
 
 <!--
 **reliablerascal/reliablerascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
