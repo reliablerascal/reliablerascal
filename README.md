@@ -4,12 +4,13 @@ but if you want to be specific you can call me **Reliable Rascal**, my GitHub na
 <hr>
 <p>As someone who loves both <strong>narrative</strong> and <strong>numbers</strong>, I lived a split existence for most of my life- paying the bills as a social service database developer/webmaster and writing on the side. But now I'm a proper freelance data journalist. 
 
-<p>These days (winter 2024) I'm balancing several gigs, including documenting public meetings and <strong>fact-checking</strong> for <a href="https://www.documenters.org/">City Bureau</a>, and <strong><a href="https://reliablerascal.github.io/">writing freelance articles</a></strong> for local Chicago news outlets. I'm about to start new work <strong>scraping elections data</strong> for the Associated Press. Here you'll find some of my data wrangling work:
+<p>These days (winter 2024) I'm balancing several gigs, including documenting public meetings and <strong>fact-checking</strong> for <a href="https://www.documenters.org/">City Bureau</a>, and <strong><a href="https://reliablerascal.github.io/">writing freelance articles</a></strong> for local Chicago news outlets. I'm about to start new work <strong>scraping elections data</strong> for the Associated Press.
+  
+  <p>And here you'll find some of my data wrangling work:
 <ul>
-
   <li><strong>Divvy bikeshare data pipelines</strong> to explore <a href="https://github.com/reliablerascal/divvy-winter/tree/main/notebooks">ridership patterns<a> and <a href="https://github.com/reliablerascal/divvy-performance">station bike availability</a>
     <li><strong>Map-based scrollytelling stories</strong> about <a href="https://github.com/reliablerascal/fort-washington">access to Fort Washington Park</a> and <a href="https://github.com/reliablerascal/bike-far-southeast">Chicago's Southeast Side wetland parks</a>
-      <li><strong>Wrangling public and FOIA-acquired data sets</strong>, including <a href="https://github.com/reliablerascal/911-mental-mindsite">911 call data related to mental health crises</a>.
+      <li><strong>Wrangled public and FOIA-acquired data sets</strong>, including <a href="https://github.com/reliablerascal/911-mental-mindsite">911 call data related to mental health crises</a>.
 </ul>
 
 <p>See also my collaborative contribution to developing the <strong><a href="https://github.com/data-liberation-project/tsa-complaint-counts">TSA complaints data pipeline</a></strong> with the <a href="https://www.data-liberation-project.org/">Data Liberation Project</a>.
