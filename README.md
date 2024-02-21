@@ -9,8 +9,9 @@ but if you want to be specific you can call me **Reliable Rascal**, my GitHub na
 <p>You can find my journalism portfolio at <a href="https://reliablerascal.github.io/">https://reliablerascal.github.io/</a>, but here you'll find some of my Javascript/QGIS mapping and data wrangling work:
 <ul>
 <li>Collaborative contribution to the <a href="https://www.data-liberation-project.org/">Data Liberation Project</a> on creating a <a href="https://github.com/data-liberation-project/tsa-complaint-counts">pipeline of TSA complaints data</a>
-  <li>Pipelines of Divvy bikeshare data to explore <a href="https://github.com/reliablerascal/divvy-winter/tree/main/notebooks">ridership patterns<a> and <a href="https://github.com/reliablerascal/divvy-performance">station bike availability</a>
-    <li>**map-based scrollytelling stories** about <a href="https://github.com/reliablerascal/fort-washington">access to Fort Washington Park</a> and <a href="https://github.com/reliablerascal/bike-far-southeast"?Chicago's Southeast Side wetland parks</a>.
+  <li><strong>Divvy bikeshare data pipelines</strong>strong> to explore <a href="https://github.com/reliablerascal/divvy-winter/tree/main/notebooks">ridership patterns<a> and <a href="https://github.com/reliablerascal/divvy-performance">station bike availability</a>
+    <li><strong>Map-based scrollytelling stories</strong>strong> about <a href="https://github.com/reliablerascal/fort-washington">access to Fort Washington Park</a> and <a href="https://github.com/reliablerascal/bike-far-southeast"?Chicago's Southeast Side wetland parks</a>
+      <li><strong>Wrangling Public and FOIA-acquired data sets</strong>, including <a href="https://github.com/reliablerascal/911-mental-mindsite">911 call data related to mental health crises</a>.
 </ul>
 
 
