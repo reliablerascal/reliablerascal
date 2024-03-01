@@ -7,9 +7,9 @@ I am one of thousands of **Rob Reids** on the planet, but if you want to be spec
   
   <p>And here you'll find some of my data wrangling work:
 <ul>
+  <li><strong>Wrangled/transformed/analyzed public and FOIA-acquired data sets about </strong><a href="https://github.com/reliablerascal/snow-clearance">snow clearance and fines for unshoveled sidewalks</a>
   <li><strong>Divvy bikeshare data pipelines</strong> to explore <a href="https://github.com/reliablerascal/divvy-winter/tree/main/notebooks">ridership patterns<a> and <a href="https://github.com/reliablerascal/divvy-performance">station bike availability</a>
     <li><strong>Map-based scrollytelling stories</strong> about <a href="https://github.com/reliablerascal/fort-washington">access to Fort Washington Park</a> and <a href="https://github.com/reliablerascal/bike-far-southeast">Chicago's Southeast Side wetland parks</a>
-      <li><strong>Wrangled/transformed/analyzed public and FOIA-acquired data sets</strong>, including <a href="https://github.com/reliablerascal/911-mental-mindsite">911 call data related to mental health crises</a>
 </ul>
 
 <p>See also my collaborative contribution to developing the <strong><a href="https://github.com/data-liberation-project/tsa-complaint-counts">TSA complaints data pipeline</a></strong> with the <a href="https://www.data-liberation-project.org/">Data Liberation Project</a>.
