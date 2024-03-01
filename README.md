@@ -7,7 +7,7 @@ I am one of thousands of **Rob Reids** on the planet, but if you want to be spec
   
   <p>And here you'll find some of my data wrangling work:
 <ul>
-  <li><strong>Wrangled/transformed/analyzed public and FOIA-acquired data sets about </strong><a href="https://github.com/reliablerascal/snow-clearance">snow clearance and fines for unshoveled sidewalks</a>
+  <li><strong>Wrangled/transformed/analyzed public and FOIA-acquired data sets</strong> about <a href="https://github.com/reliablerascal/snow-clearance">snow clearance and fines for unshoveled sidewalks</a>
   <li><strong>Divvy bikeshare data pipelines</strong> to explore <a href="https://github.com/reliablerascal/divvy-winter/tree/main/notebooks">ridership patterns<a> and <a href="https://github.com/reliablerascal/divvy-performance">station bike availability</a>
     <li><strong>Map-based scrollytelling stories</strong> about <a href="https://github.com/reliablerascal/fort-washington">access to Fort Washington Park</a> and <a href="https://github.com/reliablerascal/bike-far-southeast">Chicago's Southeast Side wetland parks</a>
 </ul>
