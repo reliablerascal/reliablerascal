@@ -3,7 +3,7 @@ I am one of the thousands of **Rob Reids** on the planet. But if you want to be 
 
 <p>As someone who loves both <strong>narrative</strong> and <strong>numbers</strong>, I've found a way to do both within one career as a data journalist. 
 
-<p>These days (summer 2024) I'm working as a data journalist intern at the <strong>Jacksonville Tributary</strong>. Prior to that I'd balanced several freelance gigs, <strong>fact-checking</strong> and documenting public meetings for <a href="https://www.documenters.org/">City Bureau</a>, and <a href="https://reliablerascal.github.io/">writing freelance articles</a>.
+<p>These days (summer 2024) I'm working as a data journalist intern at the <strong>Jacksonville Tributary</strong>. Prior to that I'd balanced several freelance gigs, <strong>fact-checking</strong> and documenting public meetings for <a href="https://www.documenters.org/">City Bureau</a>, scraping election night results, and <a href="https://reliablerascal.github.io/">writing freelance articles</a>.
 
 I'm just getting started at the Tributary, slowly and steadily improving and documenting an existing <a href="https://github.com/topics/legislative-dashboard">data pipeline and interactive visualization app legislative voting patterns dashboard</a>.
   
