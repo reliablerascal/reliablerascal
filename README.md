@@ -1,7 +1,7 @@
 ### Hello!👋
 I am one of the thousands of **Rob Reids** on the planet. But if you want to be specific, you can call me **Reliable Rascal**, my GitHub name. 
 
-<p>As someone who loves <strong>narrative</strong> and <strong>numbers</strong> and <strong>civic media</strong>, I've recently found a way to roll all three into a coherent career as a data journalist. 
+<p>As someone who loves <strong>narrative</strong> and <strong>numbers</strong> and <strong>civic empowerment</strong>, I've recently found a way to roll all three into a coherent career as a data journalist. 
 
 <p>These days (summer 2024) I'm working as a data journalist intern at the <strong>Jacksonville Tributary</strong>. Prior to that I'd balanced several freelance gigs, <strong>fact-checking</strong> and documenting public meetings for <a href="https://www.documenters.org/">City Bureau</a>, scraping election night results, and <a href="https://reliablerascal.github.io/">writing freelance articles</a>.
 
