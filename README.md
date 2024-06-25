@@ -5,7 +5,7 @@ I am one of the thousands of **Rob Reids** on the planet. But if you want to be 
 
 <p>These days (summer 2024) I'm working as a data journalist intern at the <strong>Jacksonville Tributary</strong>. Prior to that I'd balanced several freelance gigs, <strong>fact-checking</strong> and documenting public meetings for <a href="https://www.documenters.org/">City Bureau</a>, scraping election night results, and <a href="https://reliablerascal.github.io/">writing freelance articles</a>.
 
-I'm just getting started at the Tributary, slowly and steadily improving and documenting an existing <a href="https://github.com/topics/legislative-dashboard">data pipeline and interactive visualization app legislative voting patterns dashboard</a>.
+For my Tributary internship, I've been slowly and steadily automating, streamlining, and documenting an existing data pipeline and interactive <strong><a href="https://github.com/topics/legislative-dashboard">legislative voting patterns dashboard</a></strong>.
   
   <p>And here you'll find some of my prior freelance data wrangling work:
 <ul>
